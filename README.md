@@ -31,14 +31,14 @@ Make sure your system meets these requirements:
   ```
   
 ### Step 4: Install MacTex
-  I recommend using a MacTeX distribution: https://www.tug.org/mactex/, or you can download and install via Homebrew
+  I recommend using a MacTeX distribution: https://www.tug.org/mactex/, or (skip if you download from the link) install via Homebrew
   ```
   brew install Caskroom/cask/mactex
   ```
 
 ### Step 5: Install Github
 
-  1. Download and install the latest version of Git.
+  1. I recommend download and install the latest version of Git from https://git-scm.com/downloads, or (skip if you download from the link) install via Homebrew
   
     ```
     brew install git
