@@ -3,7 +3,7 @@ Machine Learning at Harvard
 
 ### System Requirements
 Make sure your system meets these requirements:
-  - Operating system: MacOS 10.7 10.8 10.9 10.10 (it has been tested successfully on these)
+  - Operating system: MacOS 10.10 (it has been tested successfully on this)
   - RAM: 2GB.
   - Disk space: 2GB
 
